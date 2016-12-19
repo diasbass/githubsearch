@@ -1,4 +1,4 @@
-# Challenge - MAD - AngularJS + Github Api
+# Github Search - AngularJS + Github Api
 
 Listing user info on Github
 
